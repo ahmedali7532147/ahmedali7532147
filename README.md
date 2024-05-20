@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ahmed Abo noor
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning css
+- 🌱 I’m currently finish html & css
 - 💞️ I’m looking to collaborate on Learn new
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
